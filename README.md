@@ -192,14 +192,12 @@ original absolute path labels; executable code uses the integrated layout.
 ## Citation
 
 ```bibtex
-@article{kim2026humanoidgcs,
-  title   = {Humanoid Footstep Planning using Graphs of Convex Sets},
-  author  = {Kim, Hyunseok and Mesesan, George and Schuller, Robert and Lee, Jinoh and Park, Hae-Won},
-  journal = {IEEE Robotics and Automation Letters},
-  year    = {2026},
-  pages   = {1--8},
-  doi     = {10.1109/LRA.2026.3746865},
-  url     = {https://doi.org/10.1109/LRA.2026.3746865}
+@article{kim2026humanoid,
+  title={Humanoid Footstep Planning using Graphs of Convex Sets},
+  author={Kim, Hyunseok and Mesesan, George and Schuller, Robert and Lee, Jinoh and Park, Hae-Won},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
