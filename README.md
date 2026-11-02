@@ -2,9 +2,9 @@
 
 **Hyunseok Kim, George Mesesan, Robert Schuller, Jinoh Lee, and Hae-Won Park**
 
-Accepted for publication in **IEEE Robotics and Automation Letters (RA-L), 2026**, submission **26-2531**.
+Published in **IEEE Robotics and Automation Letters (RA-L), 2026**, pp. **1–8**. DOI: [10.1109/LRA.2026.3746865](https://doi.org/10.1109/LRA.2026.3746865).
 
-[Project page](https://hyunseokkkkkk.github.io/Humanoid_Footstep_Planning_GCS/) · [Accepted manuscript](paper/26-2531_03_MS.pdf) · [Supplementary video](paper/Video_Final.mp4) · [Reproduction guide](docs/reproduction.md)
+[IEEE Xplore](https://doi.org/10.1109/LRA.2026.3746865) · [Project page](https://hyunseokkkkkk.github.io/Humanoid_Footstep_Planning_GCS/) · [Accepted manuscript](paper/26-2531_03_MS.pdf) · [Supplementary video](paper/Video_Final.mp4) · [Reproduction guide](docs/reproduction.md)
 
 This branch contains the GCS footstep planner, pretrained CVAE terrain generator,
 A* and MIP comparison implementations, benchmark terrains, archived experimental
@@ -197,9 +197,10 @@ original absolute path labels; executable code uses the integrated layout.
   author  = {Kim, Hyunseok and Mesesan, George and Schuller, Robert and Lee, Jinoh and Park, Hae-Won},
   journal = {IEEE Robotics and Automation Letters},
   year    = {2026},
-  note    = {Accepted for publication}
+  pages   = {1--8},
+  doi     = {10.1109/LRA.2026.3746865},
+  url     = {https://doi.org/10.1109/LRA.2026.3746865}
 }
 ```
 
-DOI, volume, and page numbers will be added when available. See
-[LICENSE](LICENSE) and [THIRD_PARTY.md](THIRD_PARTY.md) for licensing and provenance.
+See [LICENSE](LICENSE) and [THIRD_PARTY.md](THIRD_PARTY.md) for licensing and provenance.

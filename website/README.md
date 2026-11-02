@@ -40,9 +40,10 @@ setting. The `github-pages` environment records the deployed URL.
 - The muted 16-second teaser comes from 3:16–3:32 of the supplementary video,
   cropped to its hardware footage (`1072:602:422:270`). Poster images also come
   from that video. The full video is unchanged.
-- `assets/citation.bib` matches the manuscript's accepted publication status.
-  Add DOI, volume, and pages here, in `index.html`, and in the root README when
-  the final publication metadata becomes available.
+- Publication metadata: IEEE Robotics and Automation Letters, 2026, pp. 1–8,
+  DOI: [10.1109/LRA.2026.3746865](https://doi.org/10.1109/LRA.2026.3746865). Keep
+  `assets/citation.bib`, `index.html`, the root README, and `CITATION.cff` in sync
+  when the publisher assigns volume and issue information.
 
 The page is inspired by the academic project-page structure of
 [DynaFlow](https://sowoolee.github.io/dynaflow/). Its implementation, figures,

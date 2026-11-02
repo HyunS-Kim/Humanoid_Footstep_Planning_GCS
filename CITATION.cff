@@ -30,4 +30,7 @@ preferred-citation:
       given-names: Hae-Won
   journal: "IEEE Robotics and Automation Letters"
   year: 2026
-  notes: "Accepted for publication; submission 26-2531. DOI and pagination pending."
+  start: "1"
+  end: "8"
+  doi: "10.1109/LRA.2026.3746865"
+  url: "https://doi.org/10.1109/LRA.2026.3746865"
