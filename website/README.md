@@ -1,6 +1,6 @@
 # Paper project page
 
-Public URL: <https://hyunseokkkkkk.github.io/Humanoid_Footstep_Planning_GCS/>
+Public URL: <https://hyuns-kim.github.io/Humanoid_Footstep_Planning_GCS/>
 
 The page uses static HTML, CSS, and JavaScript in `dist/`. It has no frontend
 dependencies. Its source lives alongside the research code on `main`.

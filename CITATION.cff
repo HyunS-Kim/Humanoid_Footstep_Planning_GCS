@@ -13,7 +13,7 @@ authors:
     given-names: Jinoh
   - family-names: Park
     given-names: Hae-Won
-repository-code: "https://github.com/HYUNSEOKKKKKK/Humanoid_Footstep_Planning_GCS"
+repository-code: "https://github.com/HyunS-Kim/Humanoid_Footstep_Planning_GCS"
 preferred-citation:
   type: article
   title: "Humanoid Footstep Planning using Graphs of Convex Sets"

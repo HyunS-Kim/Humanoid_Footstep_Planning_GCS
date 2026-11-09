@@ -4,7 +4,7 @@
 
 Published in **IEEE Robotics and Automation Letters (RA-L), 2026**, pp. **1–8**. DOI: [10.1109/LRA.2026.3746865](https://doi.org/10.1109/LRA.2026.3746865).
 
-[IEEE Xplore](https://doi.org/10.1109/LRA.2026.3746865) · [Project page](https://hyunseokkkkkk.github.io/Humanoid_Footstep_Planning_GCS/) · [Accepted manuscript](paper/26-2531_03_MS.pdf) · [Supplementary video](paper/Video_Final.mp4) · [Reproduction guide](docs/reproduction.md)
+[IEEE Xplore](https://doi.org/10.1109/LRA.2026.3746865) · [Project page](https://hyuns-kim.github.io/Humanoid_Footstep_Planning_GCS/) · [Accepted manuscript](paper/26-2531_03_MS.pdf) · [Supplementary video](paper/Video_Final.mp4) · [Reproduction guide](docs/reproduction.md)
 
 This branch contains the GCS footstep planner, pretrained CVAE terrain generator,
 A* and MIP comparison implementations, benchmark terrains, archived experimental
@@ -18,7 +18,7 @@ Validated on **Ubuntu 24.04, Linux x86_64, Python 3.10**. The default environmen
 uses CPU PyTorch; a GPU is not required. Run commands from the repository root.
 
 ```bash
-git clone https://github.com/HYUNSEOKKKKKK/Humanoid_Footstep_Planning_GCS.git
+git clone https://github.com/HyunS-Kim/Humanoid_Footstep_Planning_GCS.git
 cd Humanoid_Footstep_Planning_GCS
 conda env create -f environment.yml
 conda activate footstep_planner
